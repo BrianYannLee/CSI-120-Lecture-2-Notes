@@ -7,6 +7,7 @@ namespace CSI_120_Lecture_2
 {
     internal class Program
     {
+        static string dateInput = "";
         static void Main(string[] args)
         {
 
@@ -17,7 +18,7 @@ namespace CSI_120_Lecture_2
         public static void UserInput()
         {
             string userName;
-            string dateInput;
+            //string dateInput;
             string titleInput;
 
             Console.Write("What is your name? ");
