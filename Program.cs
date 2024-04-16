@@ -9,8 +9,16 @@ namespace CSI_120_Lecture_2
     {
         static void Main(string[] args)
         {
-
+            
             UserInput();
+
+            /*
+             * 1. What does it meand to declare and initialize? Delcare is to set a variable type while initialize is to set variables to the variables
+             * 2. What does it mean to concatenate? Concatenate is to combine two or more string together into a single string
+             * 3. What is a "string" type consist of? String consist of any characters within a ""
+             * 4.Console.ReadLine() returns what Type? Console.ReadLine is a prompt for user input. It returns in string type
+             * 5. What happens if you try to assignment a value to a variable before it has been declared. It would give you an error stating that the variable has variable doesn't exist.
+             */
 
         }//end of main
 
